@@ -1,0 +1,6 @@
+data_location: s3://ooi-data/CE09OSSM-RID26-07-NUTNRB000-telemetered-nutnr_b_dcl_conc_instrument
+data_stream: CE09OSSM-RID26-07-NUTNRB000-telemetered-nutnr_b_dcl_conc_instrument
+end_date: '2016-07-14T05:30:46.498Z'
+last_updated: '2021-05-05T01:58:05.012098Z'
+start_date: '2015-04-09T17:30:00.000Z'
+status: pending
